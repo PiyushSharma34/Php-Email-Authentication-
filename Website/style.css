@@ -1,0 +1,33 @@
+ul li a{
+    text-decoration: none;
+    
+}
+.container{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.heading ,.header h3{
+    color: orange;
+    
+
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
+.header h3{
+    position: relative;
+    left: -25em;
+}
+.header ul{
+    list-style: none;
+    display: flex;
+    
+}
+.header  ul a {
+    margin-left: 20px;
+    font-size: 22px;
+}
+.header ul li {
+    width: 60%;
+}
